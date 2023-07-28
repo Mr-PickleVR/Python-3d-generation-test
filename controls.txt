@@ -1,0 +1,4 @@
+Up arrow - forward
+left arrow- turn left
+right arrrow - turn right
+m - open map(you cannot move)
